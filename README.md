@@ -1,2 +1,4 @@
-# olá mundo
+# olá, mundo!
  primeiro repositoty git
+
+ repositório criado ao vivo
